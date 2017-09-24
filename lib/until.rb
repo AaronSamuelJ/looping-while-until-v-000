@@ -1,5 +1,5 @@
 def using_until
-  force = 0
+  force = 6
   until force == 10
     puts 'Wingardium Leviosa'
     force += 1
